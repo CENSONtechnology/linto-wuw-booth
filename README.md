@@ -1,5 +1,5 @@
 # LINTO WAKEWORD BOOTH
-Linto WakeWord booth is intended to provided a graphic user interface to record sample audio for Wake-Word spotting.
+Linto WakeWord booth is intended to provided a graphic user interface to record and collect audio samples for Wake-Up-Word spotting.
 It has been built for the Linto project but can be easily reconfigured for any word. (See How To Use.)
 
 ## LICENCE
