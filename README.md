@@ -1,6 +1,5 @@
 # LINTO WAKEWORD BOOTH
-Linto WakeWord booth is intended to provided a graphic user interface to record sample audio for Wake-Word spotting. It has b
-
+Linto WakeWord booth is intended to provided a graphic user interface to record sample audio for Wake-Word spotting.
 It has been built for the Linto project but can be easily reconfigured for any word. (See How To Use.)
 
 ## LICENCE
@@ -9,7 +8,7 @@ For more information please read the LICENCE.txt file
 
 ## INSTALLATION
 To install this project, first clone this repository:
-`git clone ssh://git@ci.linagora.com:7999/linagora/lgs/labs/Linto-Device/Mockup/LinTO-Wakeword-Booth.git`
+`git clone git@github.com:linto-ai/linto-wuw-booth.git`
 ### Dependencies
 In order to run the GUI you need to install the following dependencies:
 * libsdl1.2-dev
